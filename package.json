@@ -1,5 +1,7 @@
 {
   "dependencies": {
     "express": "^4.21.2"
+     "start": "node server.js",
+  "build": "npm install" 
   }
 }
